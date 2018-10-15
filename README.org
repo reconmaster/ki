@@ -1,6 +1,6 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t broken-links:nil c:nil creator:nil
-#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: README
@@ -14,9 +14,12 @@
 Objective: World Peace
 * Introduction
 I've come up with a plan. I am combining all elements of my training
-to conduct and accomplish the only mission I can conceive of
+to conduct and accomplish the only mission I can conceive worth of
 undertaking.
 
 This repo will serve as an operational workbook for executing the
 subsequent sub-objectives of ending the spectre of War forever.
 * Strategy
+* Infrastructure
+** [[file:docs/git.org][git]]
+Git provides excellent temporal control over your mental detritus.
