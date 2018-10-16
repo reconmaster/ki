@@ -11,7 +11,15 @@
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki
 Objective: World Peace
+
+#+BEGIN_QUOTE
+Don't fear failure. — Not failure, but low aim, is the crime. In great
+attempts it is glorious even to fail.
+
+- Bruce Lee
+#+END_QUOTE
 * Introduction
 I've come up with a plan. I am combining all elements of my training
 to conduct and accomplish the only mission I can conceive worth of
@@ -20,6 +28,17 @@ undertaking.
 This repo will serve as an operational workbook for executing the
 subsequent sub-objectives of ending the spectre of War forever.
 * Strategy
+We are developing a new economic model for the world that uses true
+utility to determine value for a task at hand rather than blindly
+reducing the complexity of the problem to a single parameter --
+typically money.
 * Infrastructure
-** [[file:docs/git.org][git]]
+** computational
+True quality in software is priceless. Open-source software is
+developed with other incentives than money, and subsequently it tends
+to provide the better return on the investment.
+*** version control
+**** [[file:docs/git.org][git]]
 Git provides excellent temporal control over your mental detritus.
+** educational
+*** literature
