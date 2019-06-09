@@ -31,7 +31,7 @@ subsequent sub-objectives of ending the spectre of War forever.
 We are developing a new economic model for the world that uses true
 utility to determine value for a task at hand rather than blindly
 reducing the complexity of the problem to a single parameter --
-typically money. For this is why [[https://en.wikipedia.org/wiki/Usury][usury]] is a SIN.
+typically money. For this is why [[https://en.wikipedia.org/wiki/Usury][usury]] is a [[https://en.wikipedia.org/wiki/Sin][SIN]].
 * Infrastructure
 ** computational
 True quality in software is priceless. Open-source software is
