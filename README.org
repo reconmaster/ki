@@ -18,7 +18,7 @@ Objective: World Peace
 Don't fear failure. — Not failure, but low aim, is the crime. In great
 attempts it is glorious even to fail.
 
-先生 Lee
+Lee 先生
 #+END_QUOTE
 * Introduction
 I've come up with a plan. I am combining all elements of my training
@@ -31,7 +31,7 @@ subsequent sub-objectives of ending the spectre of War forever.
 We are developing a new economic model for the world that uses true
 utility to determine value for a task at hand rather than blindly
 reducing the complexity of the problem to a single parameter --
-typically money.
+typically money. After all, [[https://en.wikipedia.org/wiki/Usury][usury]] is a SIN.
 * Infrastructure
 ** computational
 True quality in software is priceless. Open-source software is
