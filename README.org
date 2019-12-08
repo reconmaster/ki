@@ -1,22 +1,118 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t broken-links:nil c:nil creator:nil
-#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
-#+TITLE: README
+#+TITLE: 気
 #+DATE: <2018-10-15 Mon>
 #+AUTHOR: Andrew M Davis, PhD
-#+EMAIL: amdavis@posteo.net
+#+EMAIL: @reconmaster:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
-Objective: World Peace
+#+FILETAGS: 気, ki
+Objective: [[https://en.wikipedia.org/wiki/World][World]] [[https://en.wikipedia.org/wiki/Peace][Peace]]
+
+#+BEGIN_QUOTE
+Don't fear failure. — Not failure, but low aim, is the crime. In great
+attempts it is glorious even to fail.
+
+Lee 先生
+#+END_QUOTE
 * Introduction
-I've come up with a plan. I am combining all elements of my training
-to conduct and accomplish the only mission I can conceive of
+I've come up with a plan. I am combining all elements of my [[https://en.wikipedia.org/wiki/Training][training]]
+to conduct and accomplish the only mission I can conceive worth of
 undertaking.
 
-This repo will serve as an operational workbook for executing the
-subsequent sub-objectives of ending the spectre of War forever.
+This repo serves as an operational workbook for developing
+sub-objectives necessary for ending the specter of [[https://en.wikipedia.org/wiki/War][war]] forever.
+
+Should you wish to contribute, here is a template for solving your
+[[https://github.com/reconmaster/ki_template][ki_problem]].
 * Strategy
+#+begin_quote
+The Art of Peace is medicine for a sick world. We want to cure the
+world of the sickness of violence, malcontent, and discord—this is the
+Way of Harmony. There is evil and disorder in the world because people
+have forgotten that all things emanate from one source. Return to that
+source and leave behind all self-centered thoughts, petty desires, and
+anger. Those who are possessed by nothing possess everything.
+
+お先生
+#+end_quote
+Our [[https://en.wikipedia.org/wiki/Evolution][evolutionary]] past has coded [[https://en.wikipedia.org/wiki/Competition][competitive]] traits into our [[https://en.wikipedia.org/wiki/Genetics][genetic]]
+code.
+
+However, our species has also concurrently developed technologies for
+overriding our baser instincts so that we can improve ourselves as
+individuals to operate together peacefully in society.
+
+[[https://en.wikipedia.org/wiki/Aikido][合気道]] is one such technology that teaches us that the only
+competition of any importance is the competition you have daily with
+yourself. The only pursuit of any value is the exercise of refining
+your [[https://en.wikipedia.org/wiki/Mind][mind]].
+
+I applied some of the concepts I've learned to creating a [[https://github.com/reconmaster/ki_repo][toolchain]]
+for processing [[https://en.wikipedia.org/wiki/Information][information]] in a transparent manner to help other
+people refine the [[https://en.wikipedia.org/wiki/Knowledge][knowledge]] that runs the [[https://en.wikipedia.org/wiki/Human][human]] [[https://en.wikipedia.org/wiki/Species][species]]. Using these
+tools, I invite any help in optimizing the objectives.
+
+One must always give careful consideration to exactly what it is that
+one want [[https://en.wikipedia.org/wiki/Goal][do]], or else they will never get to where they want to be.
+
+When we allow our competitive nature to control our thoughts, this
+energy is extended into the models that we build our [[https://en.wikipedia.org/wiki/Civilization][civilization]]
+upon. Therefore, it is important to find and identify sources of
+conflict in [[https://en.wikipedia.org/wiki/Thought][thought]], rather than on the [[https://en.wikipedia.org/wiki/Battlefield][battlefield]].
+* Infrastructure
+When designing a task, it is important ensure that the evaluation
+criteria optimize for utility cite:metz_basic_1978.
+** TODO [[https://github.com/reconmaster/ki_repo][computational]]
+True quality in software is priceless. Open-source [[https://www.fsf.org/][software]] is
+developed with other incentives than money, and subsequently it tends
+to provide the better return on the investment.
+*** version control
+**** [[file:docs/git.org][git]]
+Git provides excellent [[https://en.wikipedia.org/wiki/Time][temporal]] control over your mental detritus.
+** TODO educational
+The educational software on which knowledge is transferred is a
+critical component of the computational workflow. True understanding
+is only developed when pursued out of genuine interest.
+
+To optimize our educational infrastructure, we should seek to define
+[[https://en.wikipedia.org/wiki/Metric_(mathematics)][metrics]] that instill a desire to learn from [[https://en.wikipedia.org/wiki/Curiosity][curiosity]].
+*** TODO [[https://en.wikipedia.org/wiki/Academy][academia]]
+A powerful methodology by which to transfer refined thinking.
+*** literature
+- [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance][Robert M Pirsig - Zen and the Art of Motorcycle Maintenance]]
+** TODO financial
+We will need a new economic model for the world that uses true [[https://en.wikipedia.org/wiki/Utility][utility]]
+to determine the value exchange for the task at hand rather than
+blindly reducing the complexity of the problem to a single [[https://en.wikipedia.org/wiki/Parameter][parameter]]
+-- typically [[https://en.wikipedia.org/wiki/Money][money]].
+
+The definition of money should be reformulated to incentivize the use
+of [[https://en.wikipedia.org/wiki/Energy][energy]] for useful work. The use of wealth for the sake of
+generating wealth alone is sub-optimal. After all, [[https://en.wikipedia.org/wiki/Usury][usury]] is a [[https://en.wikipedia.org/wiki/Sin][sin]].
+** TODO legal
+The legislative framework of a governmental body is itself source code
+of governance.
+*** NEXT [[https://github.com/reconmaster/ki_us][The United States of America]]
+** TODO [[https://en.wikipedia.org/wiki/Medicine][medical]]
+The Art of Life provides a powerful framework to understand the
+biological hardware. It is subsequently important that the development
+of its knowledge base be open and transparent. This helps reduce
+sources of bias that skew the primary objective function away from
+healing.
+* Conclusion
+Nothing is ever done. When you can understand this, you will be able
+to master [[https://en.wikipedia.org/wiki/Black_hole][time]].
+
+Please feel free contribute your ideas.
+
+Peace.
+
+アンドリュー
+
+\bibliography{resources/ref}
