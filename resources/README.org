@@ -17,3 +17,7 @@ Nothing happens in a vacuum. All external intelligence sources used in
 the research endeavor must be accounted for. This allows the
 influences that affected the experimental design and procedures to be
 traced in future investigative efforts.
+* legal
+** [[https://github.com/bundestag/gesetze][Bundesgesetze und -verordnungen]]
+** [[https://free.law/][Free Law Project]]
+- [[https://github.com/freelawproject/free.law][github]]

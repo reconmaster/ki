@@ -59,7 +59,7 @@ people refine the [[https://en.wikipedia.org/wiki/Knowledge][knowledge]] that ru
 tools, I invite any help in optimizing the objectives.
 
 One must always give careful consideration to exactly what it is that
-one want [[https://en.wikipedia.org/wiki/Goal][do]], or else they will never get to where they want to be.
+one wants [[https://en.wikipedia.org/wiki/Goal][do]], or else they will never get to where they want to be.
 
 When we allow our competitive nature to control our thoughts, this
 energy is extended into the models that we build our [[https://en.wikipedia.org/wiki/Civilization][civilization]]
@@ -72,6 +72,10 @@ criteria optimize for utility cite:metz_basic_1978.
 True quality in software is priceless. Open-source [[https://www.fsf.org/][software]] is
 developed with other incentives than money, and subsequently it tends
 to provide the better return on the investment.
+*** [[https://github.com/reconmaster/ki_repo/tree/master/docs][literate programming]]
+Knuth 先生 taught us to write code like literature for other
+programmers. [[https://github.com/reconmaster/ki_repo/blob/master/docs/org.org][Org mode]] is a major mode of [[https://www.gnu.org/software/emacs/emacs.html][emacs]] that allows for
+excellent code development.
 *** version control
 **** [[file:docs/git.org][git]]
 Git provides excellent [[https://en.wikipedia.org/wiki/Time][temporal]] control over your mental detritus.
