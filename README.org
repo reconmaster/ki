@@ -25,7 +25,7 @@ I've come up with a plan. I am combining all elements of my [[https://en.wikiped
 to conduct and accomplish the only mission I can conceive worth of
 undertaking.
 
-This repo serves as an operational workbook for developing
+This [[https://github.com/reconmaster/ki_repo][repo]] serves as an operational workbook for developing
 sub-objectives necessary for ending the specter of [[https://en.wikipedia.org/wiki/War][war]] forever.
 
 Should you wish to contribute, here is a template for solving your
@@ -89,7 +89,9 @@ To optimize our educational infrastructure, we should seek to define
 *** TODO [[https://en.wikipedia.org/wiki/Academy][academia]]
 A powerful methodology by which to transfer refined thinking.
 *** literature
-- [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance][Robert M Pirsig - Zen and the Art of Motorcycle Maintenance]]
+For anyone that missed [[https://en.wikipedia.org/wiki/Reading_Rainbow][Reading Rainbow :rainbow:]], reading :book: is a
+wonderful use of time to broaden the mind. We've placed some reading
+recommendations in the [[file:resources/literature.org][literature]] section of the resources.
 ** TODO financial
 We will need a new economic model for the world that uses true [[https://en.wikipedia.org/wiki/Utility][utility]]
 to determine the value exchange for the task at hand rather than
@@ -102,7 +104,8 @@ generating wealth alone is sub-optimal. After all, [[https://en.wikipedia.org/wi
 ** TODO legal
 The legislative framework of a governmental body is itself source code
 of governance.
-*** NEXT [[https://github.com/reconmaster/ki_us][The United States of America]]
+*** TODO [[https://github.com/reconmaster/ki_us][The United States of America]]
+**** NEXT [[https://github.com/reconmaster/ki_us_nc][North Carolina]]
 ** TODO [[https://en.wikipedia.org/wiki/Medicine][medical]]
 The Art of Life provides a powerful framework to understand the
 biological hardware. It is subsequently important that the development
