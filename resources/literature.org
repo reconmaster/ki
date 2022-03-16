@@ -1,6 +1,6 @@
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:t broken-links:nil c:nil creator:nil
-#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:f
 #+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+options: timestamp:t title:t toc:t todo:t |:t
 #+title: literature
@@ -17,7 +17,10 @@ Reading allows one to absorb knowledge that has been transmitted
 across time. Here we try to curate some reading recommendations that
 provide information that could help cultivate a global state of Peace.
 * Fiction
-** [[https://en.wikipedia.org/wiki/Nineteen_Eighty-Four][George Orwell - Nineteen Eighty-Four]]
+** [[https://en.wikipedia.org/wiki/George_Orwell][George Orwell]]
+- [[https://en.wikipedia.org/wiki/Nineteen_Eighty-Four][Nineteen Eighty-Four]]
 * Non-Fiction
-** [[https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth][Buckminster Fuller - Operating Manual for Spaceship Earth]]
-** [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance][Robert M Pirsig - Zen and the Art of Motorcycle Maintenance]]
+** [[https://en.wikipedia.org/wiki/Buckminster_Fuller][Buckminster Fuller]]
+- [[https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth][Operating Manual for Spaceship Earth]]
+** [[https://en.wikipedia.org/wiki/Robert_M._Pirsig][Robert M. Pirsig]]
+- [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance][Zen and the Art of Motorcycle Maintenance]]
