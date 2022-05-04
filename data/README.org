@@ -16,3 +16,5 @@ Objective: [[https://en.wikipedia.org/wiki/Data][data]]
 Data is the information feedback reality gives us in our research
 endeavors. To obtain any signal in the noise, careful collection and
 organization must be performed to aide in subsequent [[../analysis/README.org][analysis]].
+* [[file:media.org][Media]]
+Media is one form of data that can inform our models of Peace.

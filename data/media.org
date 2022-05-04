@@ -1,0 +1,37 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: media
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, data, media
+* Introduction
+Media provides an imaging dimension to snapshot the state of reality
+as captured by the content creator. Tracking the content and creator
+provides a way to account for the [[https://en.wikipedia.org/wiki/Bias_(statistics)][bias]] that invevitably affects
+everyones world view. Accounting for this bias allows us to build a
+reality that is accomodating for all.
+* TODO Journalism
+Feedback from media sources provide rolling snapshots of the state of
+Peace in the world. Recent developments in Europe in the past months
+suggest that the global trajectory is deviating from the primary
+objective of acieving global Peace.
+** TODO sources
+*** NEXT aggregate reliable journalism sources
+*** [[https://www.reuters.com][Reuters]]
+- [[https://www.reuters.com/world/europe/ukraine-says-russia-is-trying-increase-tempo-eastern-offensive-2022-05-04/][Ukraine says Russia is trying to increase tempo of eastern offensive]]
+** TODO automated signals
+#+begin_src python
+import peace
+
+# write routines to aggregate news streams
+while peace.metrics is False:
+    peace.metrics.hash_sources
+#+end_src
+*** NEXT determine peace metrics

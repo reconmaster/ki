@@ -20,7 +20,13 @@ provide information that could help cultivate a global state of Peace.
 ** [[https://en.wikipedia.org/wiki/George_Orwell][George Orwell]]
 - [[https://en.wikipedia.org/wiki/Nineteen_Eighty-Four][Nineteen Eighty-Four]]
 * Non-Fiction
+** [[https://en.wikipedia.org/wiki/Joseph_Campbell][Joseph Campbell]]
+*** [[https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces][The Hero with a Thousand Faces]]
+Influential on George Lucas and his [[https://en.wikipedia.org/wiki/Star_Wars][Star Wars]] films.
 ** [[https://en.wikipedia.org/wiki/Buckminster_Fuller][Buckminster Fuller]]
 - [[https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth][Operating Manual for Spaceship Earth]]
 ** [[https://en.wikipedia.org/wiki/Robert_M._Pirsig][Robert M. Pirsig]]
 - [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance][Zen and the Art of Motorcycle Maintenance]]
+* Zen
+** [[https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki][Shunryū Suzuki]]
+*** [[https://en.wikipedia.org/wiki/Zen_Mind%2C_Beginner's_Mind][Zen Mind, Beginner's Mind]]

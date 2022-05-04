@@ -106,6 +106,8 @@ The legislative framework of a governmental body is itself source code
 of governance.
 *** TODO [[https://github.com/reconmaster/ki_us][The United States of America]]
 **** NEXT [[https://github.com/reconmaster/ki_us_nc][North Carolina]]
+** TODO media
+*** music
 ** TODO [[https://en.wikipedia.org/wiki/Medicine][medical]]
 The Art of Life provides a powerful framework to understand the
 biological hardware. It is subsequently important that the development
@@ -116,9 +118,15 @@ healing.
 Nothing is ever done. When you can understand this, you will be able
 to master [[https://en.wikipedia.org/wiki/Black_hole][time]].
 
+#+begin_quote
+Train yourself to let go of everything you fear to lose.
+
+Yoda 先生
+#+end_quote
+
 Please feel free contribute your ideas.
 
-Peace.
+Peace. 🕊:rainbow:
 
 アンドリュー
 
