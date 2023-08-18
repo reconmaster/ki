@@ -1,0 +1,53 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: threats
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, doc, threats
+* Introduction
+There are a variety of issues that work against the Objective of World
+Peace. This document will serve as an agenda to identify and research
+anything that compromises a state of Peace for all of humanity.
+* TODO Chemical
+** TODO [#A] [[https://en.wikipedia.org/wiki/Opioid][Opioid]]
+Over-perscription of opioids by doctors in the USA led to an epidemic
+of opiod abuse that brings a variety of health and societal problems.
+While opioids are effective at alleviating acute pain such as trauma,
+they may be no more effective than over-the-counter medication for
+long-term [[https://www.cdc.gov/opioids/patients/therapy-expectations.html][pain management]].
+
+Furthermore, the [[https://en.wikipedia.org/wiki/War_on_drugs][War on Drugs]] policy has led to people that suffer
+from the disease of addiction being treated like criminals rather than
+patients in need of medical care. Unfortunately, the same War on Drugs
+policy has led to opioids which are one of the cheapest and effective
+forms of painkillers for acute pain being unavailbe in countries that
+could use these medicines to alleviate the pain associated with
+trauma.
+*** TODO [#A] [[https://en.wikipedia.org/wiki/Fentanyl][Fentanyl]]
+A highly potent synthetic analgesic that is 50 to 100 times more
+potent than heroid and recent appearance of this chemical in street
+drugs has led to a surge in overdose deaths.
+**** articles
+- [[https://www.mauldineconomics.com/global-macro-update/chinas-deadliest-export-fentanyl][Chinas Deadliest Export: Fentanyl]]
+**** TODO medical
+Need to develop ideas regarding how the medical community can be
+activated to respond to the immediate threat as well as how to address
+the psychological issues of addiction that lead to risky behavior that
+can expose one to the risk of overdose.
+**** TODO economic
+Economic factors that place profit over the externalities such as the
+impact the drug has on people's lives and society. Identifying ways to
+pull the financial incentives of selling fentanyl outside of the
+medical community.
+* TODO Human
+** TODO Children Safety
+*** TODO Child trafficking
+*** TODO Child work exploitation
+**** NEXT indentify and find ways to stop the economic incentives behind child labor

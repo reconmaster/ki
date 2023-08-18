@@ -23,3 +23,12 @@ traced in future investigative efforts.
 - [[https://github.com/freelawproject/free.law][github]]
 * [[file:literature.org][Literature]]
 Literature is yet another form of source code for the mind.
+* [[file:organizations.org][Organizations]]
+Many great organizations exist around the globe that are dedicated to
+the pursuit of Peace.
+** TODO compile organization [[file:organizations.org][list]]
+* Thinkers
+** [[www.wernererhard.net][Werner Erhard]]
+According to @GSLinden, his work has and is still influencing
+populations seeking greater personal integrity and accountability for
+themselves and their communities.

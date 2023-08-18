@@ -1,0 +1,129 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:f
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: organizations
+#+date: <2022-05-06 Fri>
+#+author: Andrew M Davis, Greg Linden
+#+email: @reconmaster:matrix.org, @gswhiz:matrix.org
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.2 (Org mode 9.4.6)
+#+FILETAGS: 気, ki, res, organizations
+* TODO [#A] Peace
+** TODO [#A] International
+*** TODO [#A] [[https://carnegieendowment.org/][Carnegie Endowment for International Peace]]
+**** OpenAI
+#+begin_ai
+[SYS]: You are a helpful assistant.
+
+[ME]: Please give me a summary of the Carnegie Endowment for
+International Peace and what their main objectives are in regard to
+working towards World Peace.
+The Carnegie Endowment for International Peace is a non-profit think tank located in Washington, D.C. It was established in 1910 by industrialist and philanthropist Andrew Carnegie, with the goal of promoting greater understanding and cooperation among nations for the achievement of global peace.
+
+The main objectives of the Carnegie Endowment for International Peace are:
+
+1. Conducting Research: The organization conducts in-depth research and analysis on critical global issues, such as nuclear disarmament, regional conflicts, climate change, and cybersecurity. Through their research, they aim to provide policymakers, scholars, and the public with actionable recommendations and insights.
+
+2. Advancing Dialogue: The Carnegie Endowment facilitates open and constructive dialogue between policymakers, experts, and scholars from around the world. They organize conferences, seminars, and roundtable discussions to promote greater understanding and collaboration on international issues.
+
+3. Bridging Divides: One of their key objectives is to bridge divides between different nations, societies, and cultures. They work towards building trust and fostering communication among diverse stakeholders in order to find common ground and identify peaceful solutions to global challenges.
+
+4. Promoting Effective Governance: The organization strives to advance the principles of effective governance and support institutions that promote peace and stability. They offer expertise and advice on issues related to democratic governance, human rights, and international law.
+
+5. Influencing Policy: The Carnegie Endowment aims to influence policy decisions at the national and international levels. Through their research, analysis, and communication efforts, they seek to provide evidence-based solutions and recommendations to policymakers, influencing global thinking on peace and security.
+
+Overall, the Carnegie Endowment for International Peace aims to contribute to the pursuit of world peace by conducting research, facilitating dialogue, bridging divides, promoting effective governance, and influencing policy decisions. They strive to address the complex challenges facing the international community and work towards creating a more peaceful and prosperous world.
+
+[ME]:
+#+end_ai
+
+*** TODO [#A] [[https://www.ipinst.org/][International Peace Institute]]
+**** OpenAI
+#+begin_ai
+[SYS]: You are a helpful assistant.
+
+[ME]: Please give me a summary of the International Peace Institute
+and what their main objectives are in regard to working towards World
+Peace.
+The International Peace Institute (IPI) is an independent, not-for-profit think tank that works to promote peace, security, and sustainable development around the world. Established in 1970 and headquartered in New York, IPI conducts research, analysis, and policy dialogue, and provides a platform for multilateral discussions on key global challenges.
+
+IPI's main objectives in relation to working towards world peace are:
+1. Conflict Prevention: IPI aims to analyze the root causes of conflicts and develop strategies to prevent violence and instability before they escalate. This involves studying conflict dynamics, promoting early warning mechanisms, and advocating for effective preventive action.
+
+2. Peacekeeping and Peacebuilding: IPI focuses on strengthening the capacity and effectiveness of peacekeeping operations and peacebuilding efforts. They offer expertise in areas such as peacekeeping mandates, protection of civilians, rule of law, and post-conflict reconstruction.
+
+3. Diplomacy and Mediation: IPI works to enhance the practice of diplomacy and mediation, providing platforms for dialogue and fostering understanding between conflicting parties. They conduct research, support training programs, and facilitate track-two diplomacy initiatives.
+
+4. Security Sector Reform: IPI promotes accountable, inclusive, and effective security institutions. They analyze security sector challenges, provide policy recommendations, and support efforts to prevent corruption, abuse of power, and human rights violations within security forces.
+
+5. Women, Peace, and Security: IPI is committed to advancing the implementation of the UN Security Council's Women, Peace, and Security agenda. They advocate for greater women's participation in conflict prevention, peacebuilding, and peacekeeping, and support gender-responsive policies and programs.
+
+Overall, the International Peace Institute seeks to generate innovative ideas, foster international cooperation, and influence policy and practice to enhance global peace and security. Through research, analysis, and engagement with key stakeholders, IPI aims to contribute to a more peaceful and sustainable world.
+
+[ME]:
+#+end_ai
+
+*** TODO [#A] [[https://www.worldpeace.org/][May Peace Prevail On Earth International]]
+#+begin_quote
+May Peace Prevail On Earth
+#+end_quote
+** HOLD [#B] Sweden                          :HOLD:
+- State "HOLD"       from              [2023-08-17 Thu 21:12] \\
+  Need to find collaborators in Sweden
+*** TODO [#B] [[https://www.prio.org/][Peace Research Institute Oslo (PRIO)]]
+** TODO [#A] USA
+*** TODO [#A] [[https://www.usip.org/][United States Institute of Peace]]
+**** OpenAI
+#+begin_ai
+[SYS]: You are a helpful assistant.
+
+[ME]: Please give me a summary of the United States Institute of Peace
+and what their main objectives are in regard to working towards World
+Peace.
+
+The United States Institute of Peace (USIP) is an independent, non-partisan institution established by the U.S. Congress in 1984. Its main objective is to work towards the prevention, management, and resolution of violent conflicts around the world. The USIP aims to promote sustainable peace by conducting research, providing education and training, and directly engaging in peacebuilding efforts.
+
+The USIP focuses on several key areas to achieve its objectives. These include:
+
+1. Research and Analysis: USIP conducts in-depth research on the root causes of conflicts, exploring strategies for conflict prevention and resolution. It also provides analysis and recommendations to inform policymakers and practitioners working in conflict-affected areas.
+
+2. Training and Education: USIP offers a range of educational programs and resources to enhance the skills and knowledge of individuals involved in conflict resolution and peacebuilding. These programs include workshops, courses, and online resources for a diverse audience, including diplomats, military personnel, civil society activists, and students.
+
+3. Fieldwork and Direct Engagement: USIP actively engages in conflict-affected countries by providing technical expertise, facilitating dialogue and reconciliation processes, and supporting local peacebuilding initiatives. It collaborates with local stakeholders, governmental and non-governmental organizations, and international partners to develop practical and context-specific solutions.
+
+4. Policy Advocacy: USIP informs U.S. foreign policy by advising policymakers and providing recommendations based on its research and expertise. It aims to influence policy discussions, shape effective strategies for conflict prevention and resolution, and promote the inclusion of peacebuilding efforts in U.S. foreign policy.
+
+In summary, the United States Institute of Peace works towards world peace by conducting research, providing education and training, engaging in fieldwork, and advocating for effective policies. Through its diverse activities, USIP aims to prevent and mitigate violent conflicts, build sustainable peace, and contribute to the global efforts for a more peaceful and just world.
+
+[ME]:
+#+end_ai
+* TODO [#A] Memorials
+** TODO [#B] Japan
+*** TODO [#B] [[https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial_Park][Hiroshima Peace Memorial Park]]
+- [[https://hpmmuseum.jp/][Official Website]]
+*** TODO [#B] [[https://nagasakipeace.jp/en/][Nagasaki Peace]]
+** TODO [#A] USA
+*** TODO [#A] [[https://en.wikipedia.org/wiki/September_11_attacks][September 11, 2001]]
+**** TODO [#B] [[https://the957project.org/][The 9:57 Project | Connecting Schools and Veterans]]
+Bringing veterans and students together to study the Art of Peace
+would make a tremendous impact on ensuring more tragedies like 9/11
+and the subsequent Afghan and Iraqi Wars can be avoided.
+**** TODO [#A] [[https://www.nps.gov/flni/index.htm][Flight 93 National Memorial]]
+:PROPERTIES:
+:ID:       f532fdbb-1098-497c-8c7e-286efc504c25
+:END:
+- [[https://en.wikipedia.org/wiki/Flight_93_National_Memorial][Wikipedia]]
+* TODO [#B] Military
+** TODO [#B] [[https://www.willingwarriors.org/][Willing Warriors]]
+- Support for wounded, ill, and injured service members.
+- Warriors (especially those who have experienced the horror of War)
+  are often some of the biggest advocates for Peace
+* TODO [#A] Universities
+** TODO [#A] USA
+*** NEXT [#A] compile list of US Universites with Peace initiatives
+DEADLINE: <2023-09-11 Mon>
+Start with institutions we know and can find collaborators
