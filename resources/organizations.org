@@ -127,3 +127,30 @@ and the subsequent Afghan and Iraqi Wars can be avoided.
 *** NEXT [#A] compile list of US Universites with Peace initiatives
 DEADLINE: <2023-09-11 Mon>
 Start with institutions we know and can find collaborators
+*** TODO [#A] CA
+**** TODO [#A] [[https://www.soka.edu/][Soka University of America]]
+A BRIEF HISTORY OF SOKA EDUCATION Soka (“to create value”) education
+has its origins in the work of Tsunesaburo Makiguchi, a Japanese
+educator and Buddhist leader. During World War II, Makiguchi was
+arrested as a “thought criminal” by Japanese military authorities for
+his opposition to the war and for his defense of religious freedom. He
+died in prison in 1944. The small education society that Makiguchi
+founded in 1930 has since grown to become one of the world’s largest
+lay Buddhist organizations.
+
+Soka schools range from kindergartens to the 8,800-student Soka
+University in Japan. These schools have established a tradition of
+humanistic learning and scholarship where the focus is on each
+student’s growth and development.
+*** TODO [#C] GA
+**** TODO [#B] [[https://www.emory.edu/home/index.html][Emory University]]
+*** TODO [#B] IL
+**** TODO [#A] [[https://www.northwestern.edu/][Northwestern University]]
+**** TODO [#B] [[https://www.uchicago.edu/][University of Chicago]]
+*** TODO [#A] MD
+**** TODO [#B] [[https://www.jhu.edu/][Johns Hopkins University]]
+**** TODO [#B] [[https://umd.edu/][University of Maryland]]
+*** TODO [#B] NC
+**** TODO [#B] [[https://duke.edu/][Duke University]]
+**** TODO [#A] [[https://www.unc.edu/][The University of North Carolina at Chapel Hill]]
+**** TODO [#A] [[https://new.unca.edu/][UNC Asheville]]
