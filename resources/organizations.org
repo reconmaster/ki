@@ -76,6 +76,12 @@ May Peace Prevail On Earth
   Need to find collaborators in Sweden
 *** TODO [#B] [[https://www.prio.org/][Peace Research Institute Oslo (PRIO)]]
 ** TODO [#A] USA
+*** TODO [#A] [[https://afsc.org/][American Friends Service Committee (AFSC)]]
+**** NEXT [#B] research AFSC Peace initiatives
+DEADLINE: <2023-09-20 Wed>
+**** NEXT [#B] [[https://afsc.org/action/stop-funding-israeli-violence-against-palestinians][Stop funding Israeli violence against Palestinians]]
+*** TODO [#B] [[https://www.fcnl.org/act][Friends Committee on National Legislation]]
+Quaker Advocacy for the World We Seek
 *** TODO [#A] [[https://www.usip.org/][United States Institute of Peace]]
 **** OpenAI
 #+begin_ai
@@ -109,25 +115,142 @@ In summary, the United States Institute of Peace works towards world peace by co
 ** TODO [#A] USA
 *** TODO [#A] [[https://en.wikipedia.org/wiki/September_11_attacks][September 11, 2001]]
 **** TODO [#B] [[https://the957project.org/][The 9:57 Project | Connecting Schools and Veterans]]
+SCHEDULED: <2023-09-11 Mon>
 Bringing veterans and students together to study the Art of Peace
 would make a tremendous impact on ensuring more tragedies like 9/11
 and the subsequent Afghan and Iraqi Wars can be avoided.
 **** TODO [#A] [[https://www.nps.gov/flni/index.htm][Flight 93 National Memorial]]
+SCHEDULED: <2023-09-11 Mon>
 :PROPERTIES:
 :ID:       f532fdbb-1098-497c-8c7e-286efc504c25
 :END:
 - [[https://en.wikipedia.org/wiki/Flight_93_National_Memorial][Wikipedia]]
 * TODO [#B] Military
 ** TODO [#B] [[https://www.willingwarriors.org/][Willing Warriors]]
+- Willing Warriors is a Virginia 501©(3), nonprofit organization that
+  supports our country’s wounded military. They provide cost-free
+  retreat stays and programs that positively impact wounded, injured,
+  and ill service members and disabled Veterans.
 - Support for wounded, ill, and injured service members.
 - Warriors (especially those who have experienced the horror of War)
   are often some of the biggest advocates for Peace
+* TODO [#B] Sports
+** TODO [#B] [[https://olympics.com/en/][Olympics]]
+*** TODO [#B] Summer Olympics 2028
+DEADLINE: <2028-06-01 Thu>
+Los Angeles & Long Beach
+**** NEXT [#B] research opportunities in planning and preparations
 * TODO [#A] Universities
 ** TODO [#A] USA
 *** NEXT [#A] compile list of US Universites with Peace initiatives
 DEADLINE: <2023-09-11 Mon>
 Start with institutions we know and can find collaborators
 *** TODO [#A] CA
+**** ChatGPT
+As of my last knowledge update in September 2021, several California
+colleges and universities were known to offer programs and initiatives
+related to global peace-making and local peace-related projects.
+Please note that programs and offerings may have changed since then,
+so it's recommended to visit the respective university websites for
+the most up-to-date information. Here are a few institutions that were
+known for their focus on peace studies:
+
+    1. University of California, Berkeley: UC Berkeley's Peace and Conflict Studies program offers undergraduate and graduate courses focused on understanding and addressing issues of conflict and peace.
+    2. Stanford University: Stanford's Freeman Spogli Institute for International Studies has research centers and programs that address global security, conflict resolution, and international relations, which could include peace-related projects.
+    3. University of San Diego: The Joan B. Kroc School of Peace Studies at USD is dedicated to the study and practice of peace and social justice, offering graduate programs and community engagement opportunities.
+    4. Claremont Graduate University: The School of Social Science, Policy, and Evaluation at Claremont Graduate University offers a program in Peace and Conflict Studies, focusing on interdisciplinary research and practice.
+    5. California State University, Dominguez Hills: CSU Dominguez Hills has a Department of Negotiation, Conflict Resolution and Peacebuilding that offers undergraduate and graduate programs in these areas.
+    6. Chapman University: Chapman's Rodgers Center for Holocaust Education often hosts events and programs related to peace, human rights, and social justice.
+    7. Occidental College: Occidental's International Relations program may offer courses or opportunities related to peace-making and conflict resolution.
+    8. University of San Francisco: USF has a Peace and Justice Studies program that aims to educate students about issues of peace, justice, and social change.
+    9. Pepperdine University: The Pepperdine School of Public Policy offers a program in Conflict Management, focusing on negotiation and mediation skills.
+    10. California State University, Northridge: CSUN's College of Social and Behavioral Sciences offers a program in Peace and Conflict Studies.
+    11. University of California, Irvine - UCI's Center for Global Peace and Conflict Studies is dedicated to promoting interdisciplinary research and education on issues related to peace and conflict.
+    12. San Diego State University - The university offers a program in Conflict Resolution through its School of Conflict Resolution, Human Security, and Global Governance.
+    13. Loyola Marymount University - LMU's Department of Marital and Family Therapy offers a program in Negotiation, Conflict Resolution, and Peacebuilding.
+**** TODO [#B] [[https://www.csudh.edu/][California State University, Dominguez Hills]]
+CSU Dominguez Hills has a Department of Negotiation, Conflict
+Resolution and Peacebuilding that offers undergraduate and graduate
+programs in these areas.
+
+The Negotiation, Conflict Resolution and Peacebuilding Program
+consists of a community of multicultural, multiprofessional and
+multigenerational scholar/practitioners who study, care about and
+build relationships with the communities that are served. Whether
+developing peacebuilding process and curriculum in local schools,
+working to socially integrate gangs at home, or peacebuilding on the
+island of Cyprus or in nations in Africa, the program is committed to
+reflective practice and practitioners, and cross-cultural and
+multi-ethnic models of conflict prevention, management and resolution.
+The program employs a multidisciplinary approach emphasizing law,
+social and behavioral sciences, engagement in community and
+organizational settings, advancing state-of-the-art distance learning
+programs internationally, and enriching the ability of individuals,
+groups, organizations and communities to address conflicts
+collaboratively and constructively.
+**** TODO [#B] [[https://www.csun.edu/][California State University, Northridge]]
+CSUN's College of Social and Behavioral Sciences offers a program in
+Peace and Conflict Studies.
+***** TODO [#B] [[https://www.csun.edu/~csunupj/][CSUN United for Peace and Justice (CSUNUPJ)]]
+CSUN United for Peace and Justice (CSUNUPJ) is a working group
+dedicated to the creation of a center for studies of peace and justice
+at California State University, Northridge. The coalition includes
+more than 90 faculty members, students, and members of the campus
+community at CSUN. The central mission of CSUNUPJ is to facilitate
+discourse and analysis of social policies likely to result in peaceful
+and just forms of human co-existence. CSUNUPJ provides
+interdisciplinary resources for research and teaching of topics
+connected with racism; gender and sexual discrimination;
+anti-immigrant bias; class; and current events, including analyses of
+social conditions leading to war and other forms of collective
+violence.
+**** TODO [#C] [[https://www.uci.edu/][University of California, Irvine]]
+UCI's Center for Global Peace and Conflict Studies is dedicated to
+promoting interdisciplinary research and education on issues related
+to peace and conflict.
+***** HOLD [#C] [[https://www.cgpacs.uci.edu/][Center for Global Peace and Conflict Studies (CGPACS)]] :HOLD:
+- State "HOLD"       from "TODO"       [2023-09-05 Tue 16:48] \\
+  Not a likely partner due to research focus and grant structure.
+
+GPACS was founded in 1983 by a diverse group of faculty who came
+together out of concern about the nuclear weapons stand-off between
+the United States and the former Soviet Union. Although the Soviet
+Union no longer exists and the Cold War of the 1980s is a thing of the
+past, the core of the vision of the founders of GPACS– the imperative
+that as citizens and as scholars we pursue the goal of global peace
+and ward off the dangers of global conflict—continues to animate our
+work today. Throughout our almost 40 years of work, we have fostered
+diverse and outstanding contributions from the UCI community as
+scholars, students, and citizens, to the promotion of global peace and
+to innovative and rigorous analysis of the factors shaping global
+conflict. We facilitate research and interdisciplinary on peace and
+conflict through informal presentations, Colloquia, public lectures,
+conferences, and other activities.
+- [[https://research.uci.edu/center/center-for-global-peace-and-conflict-studies-cgpacs/][UCI Office of Research]]
+**** TODO [#A] [[https://www.sandiego.edu/][University of San Diego]]
+***** TODO [#A] [[https://www.sandiego.edu/peace/about/][Joan B. Kroc School of Peace Studies]]
+The Joan B. Kroc School of Peace Studies (Kroc School) at the
+University of San Diego is the global hub for peacebuilding and social
+innovation. Founded in 2007, the Kroc School equips the next
+generation of innovative changemakers to shape more peaceful and just
+societies. We offer master's degrees in peace and justice, social
+innovation, humanitarian action, conflict management and resolution,
+and a dual degree in peace and law — programs that have attracted
+diverse and dynamic students from more than 50 countries. Kroc School
+supports positive change beyond the classroom. Through groundbreaking
+research, experiential learning, and forward-thinking programs, the
+Kroc School is shaping a future in which peaceful co-existence is the
+new normal.
+**** TODO [#B] [[https://www.usfca.edu/][University of San Francisco]]
+USF has a Peace and Justice Studies program that aims to educate
+students about issues of peace, justice, and social change.
+
+The Peace and Justice Studies program enables students to examine
+impediments to peace and justice-such as militarism, repression,
+violence, racism, sexism, underdevelopment and environmental decay-as
+well as study ideas, strategies, social movements, and theological and
+philosophical approaches that seek to build a just and peaceful
+society.
 **** TODO [#A] [[https://www.soka.edu/][Soka University of America]]
 A BRIEF HISTORY OF SOKA EDUCATION Soka (“to create value”) education
 has its origins in the work of Tsunesaburo Makiguchi, a Japanese
@@ -150,7 +273,91 @@ student’s growth and development.
 *** TODO [#A] MD
 **** TODO [#B] [[https://www.jhu.edu/][Johns Hopkins University]]
 **** TODO [#B] [[https://umd.edu/][University of Maryland]]
+*** TODO [#C] MI
+**** TODO [#C] Michigan State University
+***** NEXT [#C] [[https://peacejustice.msu.edu/][Peace and Justice Studies]]
 *** TODO [#B] NC
+**** OpenAI
+#+begin_ai
+[SYS]: You are an academic expert on Peace
+
+[ME]: Please give me a list of colleges and universities in North
+Carolina that offer programs or initiatives on global and local
+peace-making projects.
+
+[AI]: Here is a list of colleges and universities in North Carolina that offer programs or initiatives focusing on global and local peace-making projects:
+
+1. Duke University - Duke-UNC Rotary Peace Center: Offers a Rotary Peace Fellowship program, which provides individuals with the opportunity to pursue a Master's degree in international development policy, peace studies, public administration, or a related field.
+Website: https://sanford.duke.edu/academics/master-public-policy/rotary-peace-fellowship
+
+2. University of North Carolina at Chapel Hill - Center for Global Initiatives (CGI): Promotes research, education, and engagement opportunities related to global issues, including peace and security. Offers grants and fellowships to support projects focused on peace.
+Website: https://cgi.unc.edu/
+
+3. North Carolina State University - Peace Corps Prep Program: Offers a Peace Corps Prep certificate that combines academic coursework, service, and leadership training to prepare students for service in the Peace Corps or related career paths.
+Website: https://peacecorps.ncsu.edu/peace-corps-prep/
+
+4. Wake Forest University - Program for Leadership and Character: Provides opportunities for students to engage in programs focused on leadership and character development, which can contribute to peace-making efforts at both the local and global levels.
+Website: https://leadership.wfu.edu/
+
+5. Appalachian State University - Department of Cultural, Gender, and Global Studies: Offers a Global Studies major that explores peace, justice, and conflict resolution from a global perspective.
+Website: https://cgg.appstate.edu/
+
+6. Elon University - Center for Engaged Learning: Promotes engaged learning experiences, including those related to peace and social justice issues. Supports student-faculty collaborations on research projects and initiatives related to peace.
+Website: https://www.elon.edu/u/academics/engaged-learning/
+
+7. Guilford College - Center for Principled Problem Solving: Focused on educating students in ethical leadership, social responsibility, and conflict resolution. Offers programs and courses related to peace and justice studies.
+Website: https://www.guilford.edu/academics/centers-institutes/center-for-principled-problem-solving
+
+8. Warren Wilson College - Peace and Social Justice Studies Program: Offers a program that explores the theories and practices of peace and social justice. Emphasizes hands-on, experiential learning and community engagement.
+Website: https://www.warren-wilson.edu/academics/programs/peace-and-social-justice-studies/
+
+Note: It is always recommended to visit the official websites of the colleges and universities mentioned above for more specific and up-to-date information about their peace-related programs and initiatives.
+
+[ME]:
+#+end_ai
 **** TODO [#B] [[https://duke.edu/][Duke University]]
 **** TODO [#A] [[https://www.unc.edu/][The University of North Carolina at Chapel Hill]]
-**** TODO [#A] [[https://new.unca.edu/][UNC Asheville]]
+**** TODO [#C] [[https://new.unca.edu/][UNC Asheville]]
+*** TODO [#A] WI
+**** OpenAI
+#+begin_ai
+[SYS]: You are an academic expert on Peace.
+
+[ME]: Please give me a list of colleges and universities in Wisconsin
+that offer programs or initiatives on global and local peace-making
+projects.
+
+[AI]: Here is a list of colleges and universities in Wisconsin that offer programs or initiatives on global and local peace-making projects:
+
+1. University of Wisconsin - Madison: The Center for World Affairs and the Global Economy (WAGE) offers research and programs on global peace issues, including seminars and conferences on peacebuilding.
+Website: https://wage.wisc.edu
+
+2. Marquette University: The Center for Peacemaking provides academic programs, research, and community engagement initiatives focused on peacebuilding, social justice, and conflict resolution.
+Website: https://www.marquette.edu/peacemaking/
+
+3. University of Wisconsin - Milwaukee: The Center for International Education offers programs and research opportunities related to peace studies, conflict resolution, and global development.
+Website: https://uwm.edu/cie/
+
+4. St. Norbert College: The Cassandra Voss Center for Women and Gender Equity sponsors peace-related programs and initiatives focused on gender issues, equity, and social justice.
+Website: https://www.snc.edu/voss/
+
+5. Beloit College: The Weissberg Program in Human Rights and Social Justice promotes research, scholarship, and grassroots initiatives related to peacebuilding, human rights, and social justice.
+Website: https://www.beloit.edu/weissberg/
+
+6. Edgewood College: The Global Education Office organizes programs and activities on peace studies, cross-cultural understanding, and social justice, both locally and globally.
+Website: https://www.edgewood.edu/academics/global-education
+
+7. University of Wisconsin - Whitewater: The Department of Global Experiences offers study abroad programs and research opportunities focusing on peace education, intercultural communication, and global understanding.
+Website: https://www.uww.edu/departments/
+
+These institutions offer various programs, research opportunities, and initiatives related to peace, social justice, conflict resolution, and global understanding.
+
+[ME]:
+#+end_ai
+**** TODO [#A] [[https://www.marquette.edu/peacemaking/][Marquette University: The Center for Peacemaking]]
+- [[https://mupeacemaking.medium.com/the-art-of-nonviolence-f2a7174dc263][The Art of Nonviolence]]
+- [[https://www.wuwm.com/2023-05-24/this-book-chronicles-milwaukees-islamic-christian-dialogues-from-the-1980s][This book chronicles Milwaukee's Islamic-Christian dialogues from the 1980s]]
+***** TODO [#B] books
+****** NEXT [#B] [[https://www.wiley.com/en-us/Peacemaking+and+the+Challenge+of+Violence+in+World+Religions-p-9781118953433][Peacemaking and the Challenge of Violence in World Religions]]
+***** TODO [#A] professors
+****** NEXT [#A] [[https://www.marquette.edu/theology/directory/irfan-omar.php][Irfan A Omar, PhD]]

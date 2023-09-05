@@ -5,8 +5,8 @@
 #+options: timestamp:t title:t toc:t todo:t |:t
 #+title: literature
 #+date: <2022-03-16 Wed>
-#+author: Andrew M Davis
-#+email: @reconmaster:matrix.org
+#+author: Andrew M Davis, Greg Linden
+#+email: @reconmaster:matrix.org; @gswhiz:matrix.org
 #+language: en
 #+select_tags: export
 #+exclude_tags: noexport
@@ -16,6 +16,16 @@
 Reading allows one to absorb knowledge that has been transmitted
 across time. Here we try to curate some reading recommendations that
 provide information that could help cultivate a global state of Peace.
+* Biography
+** Frederick Douglass
+*** [[https://gutenberg.org/files/23/23-h/23-h.htm][Narrative of the Life of Frederick Douglass]]
+** Martin Meredith
+*** [[https://archive.org/details/unset0000unse_s4e8/page/n5/mode/2up][Nelson Mandela: a biography]]
+* Economics/Finance
+** [[https://en.wikipedia.org/wiki/Peter_Kropotkin][Peter Kropotkin]]
+*** [[https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution][Mutual Aid: A Factor of Evolution]]
+** [[https://en.wikipedia.org/wiki/Bernie_Sanders][Bernie Sanders]]
+*** [[https://en.wikipedia.org/wiki/It%27s_OK_to_Be_Angry_About_Capitalism][It's OK to Be Angry About Capitalism]]
 * Fiction
 ** [[https://en.wikipedia.org/wiki/George_Orwell][George Orwell]]
 *** [[https://en.wikipedia.org/wiki/Nineteen_Eighty-Four][Nineteen Eighty-Four]]
@@ -25,6 +35,8 @@ provide information that could help cultivate a global state of Peace.
 ** [[https://en.wikipedia.org/wiki/Joseph_Campbell][Joseph Campbell]]
 *** [[https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces][The Hero with a Thousand Faces]]
 Influential on George Lucas and his [[https://en.wikipedia.org/wiki/Star_Wars][Star Wars]] films.
+** [[https://en.wikipedia.org/wiki/Hillary_Clinton][Hillary Clinton]]
+*** [[https://en.wikipedia.org/wiki/State_of_Terror][State of Terror]]
 ** [[https://en.wikipedia.org/wiki/Buckminster_Fuller][Buckminster Fuller]]
 - [[https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth][Operating Manual for Spaceship Earth]]
 ** Kajal Odedra
@@ -33,6 +45,37 @@ This is a good resource for how to become an activist for something
 you are passionate about.
 ** [[https://en.wikipedia.org/wiki/Robert_M._Pirsig][Robert M. Pirsig]]
 - [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance][Zen and the Art of Motorcycle Maintenance]]
+* Political
+** [[https://en.wikipedia.org/wiki/Bob_Woodward][Bob Woodward]]
+*** [[https://en.wikipedia.org/wiki/Rage_(Woodward_book)][Rage]]
+** Stuart Stevens
+*** [[https://www.penguinrandomhouse.com/books/623807/it-was-all-a-lie-by-stuart-stevens/][It Was All a Lie]]
+* Self-help
+** [[https://en.wikipedia.org/wiki/Richard_Nelson_Bolles][Richard Nelson Bolles]]
+*** [[https://en.wikipedia.org/wiki/What_Color_Is_Your_Parachute%3F][What Color Is Your Parachute?]]
+How To Find Your Mission in Life. A quite famous book on seeking
+career and life choices as one ages.
+** Arthur Brooks
+*** [[https://arthurbrooks.com/from-strength-to-strength][From Strength to Strength]]
+#+begin_quote
+Use things.
+Love people.
+Worship the divine.
+#+end_quote
+A very useful book on finding your own path during the second half of
+your life. The book is filled with helpful advice on how to manage
+your transition from working to living into retirement with purpose
+and motivation. These 7 words sum it up.
+** Michael A Singer
+*** The Untethered Soul
+"the journey beyond yourself"
+
+A powerful book that describes itself this way: “…begins by walking
+you through your relationship with your thoughts and emotions,…It then
+delves into what you can do to free yourself from habitual thoughts,
+emotions, and energy patterns that limit your consciousness.” Chapter
+19 titled The Loving Eyes of God encourages inward meditation to have
+direct experience of the Divine.
 * Spirituality
 ** Rainn Wilson
 *** [[https://www.soulboom.com/][Soul Boom]]
