@@ -12,6 +12,42 @@
 #+exclude_tags: noexport
 #+creator: Emacs 27.2 (Org mode 9.4.6)
 #+FILETAGS: 気, ki, res, organizations
+* TODO [#A] Education
+** TODO [#A] [[https://www.cartercenter.org/][The Carter Center]]
+#+begin_quote
+Waging Peace, Fighting Disease & Building Hope
+#+end_quote
+*** TODO [#A] [[https://www.cartercenter.org/involved/index.html][Get Involved]]
+* TODO [#A] Government
+** TODO [#A] [[https://www.un.org/en/][United Nations]]
+*** Women, Peace, & Security
+- UN Security Council Resolution (UNSCR) 1325 on Women, Peace and
+  Security (2000) is a landmark resolution that stresses the
+  importance of equal and full involvement of women in all efforts for
+  the maintenance and promotion of peace and security, and it paved
+  the way for UN SCRs 1820, 1888, 1889, 1960, 2106, 2122, 2242, 2467,
+  and 2493, all of which contain provisions in support of gender
+  equality and women’s voice, agency and empowerment.
+- [[https://www.usip.org/gender_peacebuilding/about_UNSCR_1325][United Nations Security Council Resolution 1325]] is a landmark
+  resolution that was adopted in the year 2000. It recognizes the
+  importance of women’s involvement in peace and security issues to
+  achieve long-lasting stability. The resolution specifically
+  addresses how women and girls are disproportionately impacted by
+  violent conflict and war and recognizes the critical role that women
+  can and already do play in peacebuilding efforts
+- The four pillars of UNSCR 1325 are as follows:
+    1. Participation: Calls for increased participation of women at
+       all levels of decision-making, including in national, regional,
+       and international institutions.
+    2. Protection: Calls specifically for the protection of women and
+       girls from sexual and gender-based violence, including in
+       situations of armed conflict.
+    3. Prevention: Calls for the prevention of violence against women
+       and girls, including through addressing the root causes of
+       conflict, such as gender inequality.
+    4. Relief and recovery: Calls for relief and recovery efforts that
+       are gender-sensitive and address the specific needs of women
+       and girls affected by conflict
 * TODO [#A] Peace
 ** TODO [#A] International
 *** TODO [#A] [[https://carnegieendowment.org/][Carnegie Endowment for International Peace]]
@@ -134,6 +170,10 @@ SCHEDULED: <2023-09-11 Mon>
 - Support for wounded, ill, and injured service members.
 - Warriors (especially those who have experienced the horror of War)
   are often some of the biggest advocates for Peace
+* TODO [#A] Nonprofits
+** TODO [#A] USA
+*** TODO [#A] WI
+**** TODO [#A] [[https://wisdomwisconsin.org/][WISDOM - Wisconsins Nonprofit Community Organizing]]
 * TODO [#B] Sports
 ** TODO [#B] [[https://olympics.com/en/][Olympics]]
 *** TODO [#B] Summer Olympics 2028
@@ -145,6 +185,9 @@ Los Angeles & Long Beach
 *** NEXT [#A] compile list of US Universites with Peace initiatives
 DEADLINE: <2023-09-11 Mon>
 Start with institutions we know and can find collaborators
+*** TODO [#B] AZ
+**** TODO [#B] [[https://www.asu.edu/][Arizona State University]]
+***** TODO [#A] [[https://globalfutures.asu.edu/][Julie Ann Wrigley Global Futures Laboratory]]
 *** TODO [#A] CA
 **** ChatGPT
 As of my last knowledge update in September 2021, several California
@@ -265,6 +308,21 @@ Soka schools range from kindergartens to the 8,800-student Soka
 University in Japan. These schools have established a tradition of
 humanistic learning and scholarship where the focus is on each
 student’s growth and development.
+***** WAITING [#A] tour of Soka University   :WAITING:
+- State "WAITING"    from "NEXT"       [2023-09-06 Wed 19:23] \\
+  @gswhiz
+***** Notes from the 10th Anniversary of Peace Dialogues at Soka University [2023-10-02 Mon 10:00]
+- The UN Culture of Peace Doctrine #1325 (ca. 2000) to create a win-win world. Defined CRBP.
+- Michael Weiner, Director of Peace Studies at Soka
+- “Home away from home” Soka University (?) initiative to aid child refugees
+- The future of humanity is peace.
+- Principles that permeated the 3+ speakers as foundational for moving
+  toward a peaceful planet:
+    1. Principle of giving each person respect
+    2. Principle of treating people as individuals, not only as members of a larger group
+    3. Principle of being open to others and to listening first
+    4. Principle of striving to be your best, peaceful self
+    5. Principle of acknowledging there is only one human race/species
 *** TODO [#C] GA
 **** TODO [#B] [[https://www.emory.edu/home/index.html][Emory University]]
 *** TODO [#B] IL
@@ -354,10 +412,18 @@ These institutions offer various programs, research opportunities, and initiativ
 
 [ME]:
 #+end_ai
+**** TODO
+***** TODO [[https://uwm.edu/philosophy/people/magnusson-agust-ingvar/][Agust Ingvar Magnusson]]
 **** TODO [#A] [[https://www.marquette.edu/peacemaking/][Marquette University: The Center for Peacemaking]]
+Center for Peacemaking
+1616 W. Wells St.
+Milwaukee, WI 53233
+Phone: (414) 288-8444
 - [[https://mupeacemaking.medium.com/the-art-of-nonviolence-f2a7174dc263][The Art of Nonviolence]]
 - [[https://www.wuwm.com/2023-05-24/this-book-chronicles-milwaukees-islamic-christian-dialogues-from-the-1980s][This book chronicles Milwaukee's Islamic-Christian dialogues from the 1980s]]
 ***** TODO [#B] books
 ****** NEXT [#B] [[https://www.wiley.com/en-us/Peacemaking+and+the+Challenge+of+Violence+in+World+Religions-p-9781118953433][Peacemaking and the Challenge of Violence in World Religions]]
 ***** TODO [#A] professors
 ****** NEXT [#A] [[https://www.marquette.edu/theology/directory/irfan-omar.php][Irfan A Omar, PhD]]
+***** resources
+****** [[https://www.marquette.edu/peacemaking/making-a-living-making-a-difference.php][Making a living making a difference]]

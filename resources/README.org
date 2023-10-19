@@ -17,12 +17,14 @@ Nothing happens in a vacuum. All external intelligence sources used in
 the research endeavor must be accounted for. This allows the
 influences that affected the experimental design and procedures to be
 traced in future investigative efforts.
+* Journals
+** [[https://journals.sagepub.com/home/jpr][Journal of Peace Research]]
 * Legal
 ** [[https://github.com/bundestag/gesetze][Bundesgesetze und -verordnungen]]
 ** [[https://free.law/][Free Law Project]]
 - [[https://github.com/freelawproject/free.law][github]]
 * [[file:literature.org][Literature]]
-Literature is yet another form of source code for the mind.
+We are putting together a reading list to help train Peacekeepers.
 * [[file:organizations.org][Organizations]]
 Many great organizations exist around the globe that are dedicated to
 the pursuit of Peace.
@@ -32,3 +34,5 @@ the pursuit of Peace.
 According to @GSLinden, his work has and is still influencing
 populations seeking greater personal integrity and accountability for
 themselves and their communities.
+** Rollo May
+*** [[https://www.youtube.com/watch?v=ShYbIQHP9r0][Rollo May - Evil is a Problem For All of Us - 1984]]
